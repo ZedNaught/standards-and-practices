@@ -54,6 +54,7 @@ Format:
 | Adrian Wawrzak | [Adiqq](https://github.com/Adiqq) ||
 | Alan Brogan | [jalanb](https://github.com/jalanb) | I have decades of programming experience in C, C++, Java, Python. Would like to learn how to become a FOSS contributor |
 | Alex Mann | [southheat92](https://github.com/southheat92) ||
+| Alex Reyes | [ZedNaught](https://github.com/ZedNaught) | Physics graduate with decent C/C++ knowlege looking to contribute to open source. Currently learning Python as well.  |
 | Alex Samide | [absamide](https://github.com/absamide) | Looking to increase knowledge beyond what the CS degree is teaching me. Minimal experience in C/C++/Java/Ruby/Python |
 | Alyssa Lambert | [alamb93](https://github.com/alamb93) | CS student with basic knowledge of Java and C++. Looking forward to increasing my knowledge. |
 | Amrit Ayalur | [aayalur](https://github.com/aayalur) | 17 year old self taught coder. Experience in Java/Ruby/JS/CSS/HTML |
